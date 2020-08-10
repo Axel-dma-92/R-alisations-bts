@@ -1,0 +1,12 @@
+======= copie du résultats de 2 formulaires ================ 
+
+Aujourd'hui, nous sommes le mercredi 03 décembre 2008 et il est 14:24:40
+Bonjour Mme Annie Girardot, merçi d'avoir remplit ce formulaire.
+
+Aujourd'hui, nous sommes le mercredi 03 décembre 2008 et il est 14:26:53
+Bonjour M. Arsène LUPIN, merçi d'avoir remplit ce formulaire.
+
+======= contenu du fichier agenda2.txt ======================
+
+Mme Annie Girardot 0123456789 mercredi 03 décembre 2008 14:24:40
+M. Arsène LUPIN 0123000000 mercredi 03 décembre 2008 14:26:53
